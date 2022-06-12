@@ -1,4 +1,4 @@
-# Cloud
+# Cloud Config
 
 # How to run
 
